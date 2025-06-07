@@ -1,0 +1,6 @@
+{
+  "Cleanup": {
+    "TargetFolder": "C:\\TempFiles",
+    "DaysToKeep": "7"
+  }
+}
